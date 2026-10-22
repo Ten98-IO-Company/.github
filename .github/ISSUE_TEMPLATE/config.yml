@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/Ten98-IO-Company
+    about: Open the repository you're using and start a thread in its Discussions tab.
+  - name: Report a security vulnerability
+    url: https://github.com/Ten98-IO-Company/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, never in a public issue.
